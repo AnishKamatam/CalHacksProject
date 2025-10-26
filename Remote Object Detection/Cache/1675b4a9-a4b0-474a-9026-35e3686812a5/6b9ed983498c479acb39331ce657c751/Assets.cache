@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0fc90a57-b60c-4b3c-9c69-06e49adcb936: 1675b4a9-a4b0-474a-9026-35e3686812a5/6b9ed983498c479acb39331ce657c751/Data/follow-white.png
+  Assets:
+    - !<FileTexture/0fc90a57-b60c-4b3c-9c69-06e49adcb936>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 6b9ed983498c479acb39331ce657c751
+  FileHash: 72b79e2efa34857cb665cdd99527862d
+  NativePackageItems:
+    []

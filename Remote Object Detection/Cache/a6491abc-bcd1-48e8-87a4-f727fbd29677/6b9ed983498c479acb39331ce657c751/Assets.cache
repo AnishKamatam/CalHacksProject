@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1d97f458-7035-411b-b616-dfa7916bba2e: a6491abc-bcd1-48e8-87a4-f727fbd29677/6b9ed983498c479acb39331ce657c751/Data/scale-tr.png
+  Assets:
+    - !<FileTexture/1d97f458-7035-411b-b616-dfa7916bba2e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 6b9ed983498c479acb39331ce657c751
+  FileHash: 72b79e2efa34857cb665cdd99527862d
+  NativePackageItems:
+    []
