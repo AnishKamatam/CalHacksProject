@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ab5391f0-358f-48d1-9d71-b5d08a601b75: 1226cb7b-474d-45ab-80ce-2b9c79d05d35/44edf5b79fb6cc56fc63667a1a6c5c82/Data/middler.png
+  Assets:
+    - !<FileTexture/ab5391f0-358f-48d1-9d71-b5d08a601b75>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1483
+        Height: 1560
+  SourceHash: 44edf5b79fb6cc56fc63667a1a6c5c82
+  FileHash: 91d4eebfa1159e5a1676b4ccd99390d3
+  NativePackageItems:
+    []

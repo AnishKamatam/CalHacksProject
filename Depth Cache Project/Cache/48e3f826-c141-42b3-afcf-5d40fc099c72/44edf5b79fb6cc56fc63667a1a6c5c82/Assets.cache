@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    557bd531-e882-48fd-b770-9e22ebdc3a23: 48e3f826-c141-42b3-afcf-5d40fc099c72/44edf5b79fb6cc56fc63667a1a6c5c82/Data/middle.png
+  Assets:
+    - !<FileTexture/557bd531-e882-48fd-b770-9e22ebdc3a23>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1483
+        Height: 1560
+  SourceHash: 44edf5b79fb6cc56fc63667a1a6c5c82
+  FileHash: 91d4eebfa1159e5a1676b4ccd99390d3
+  NativePackageItems:
+    []
